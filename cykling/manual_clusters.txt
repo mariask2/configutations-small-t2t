@@ -1,0 +1,405 @@
+hamn hamnen
+liv livet
+groda grodor
+orm ormar
+ljusa ljust
+mörka mörkt
+dotter dottern
+farfar farfars
+hustru hustrun fru
+son sonen
+syster systern
+torpare torparen
+hjelp hjelpa hjelpas hjelpte
+hjerta hjertans hjertat
+hufvud hufvudet
+sjö sjön
+kyrka kyrkan kyrkans kyrkorna
+bygga byggde
+sjörå sjöråa
+gubbe gubben gubbens
+gumma gumman gummans
+barn barnet barnen barnets barnen barna
+tomte tomten tomtarna
+gast gasten
+sten stenen
+häst hästen
+orm ormen ormar ormarna
+mamma mor modern mamman moder modren mammas
+berg berget
+ko kon kor korna
+jätte jätten jättens jättarna
+rinna rann
+präst prästen prästens
+gast gasten
+kasta kastade kastat
+troll trollen trollet bergatroll bergatrollet bergatrollen
+pojk pojke pojken pojkens 
+pojkar pojkarna pojkarnas killar
+vatten vattnet
+flicka flickan flickans
+flickor flickorna flickornas tjejer
+mannen mannens herre
+kvinna kvinnan kvinnans dam
+kvinnor kvinnorna damer
+män männen herrar
+dräng drängen drängens
+piga pigan pigans bondpiga
+bröder bror syskon systrar syster systers syskonen
+dotter döttrar dottern
+pappa pappan far fadern fäder faderns pappas
+släkt släkten släktingar
+söner sönerna son sonen sonens
+boskap boskapen
+björkar buskar buskarna träd träden trädet skogarna
+kreaturen kreaturet
+djuren fåren getter getterna grisar stutar
+granar granen granris markerna 
+gräset löv mossa
+åkern åkrar åkrarna
+sko skor skon skorna
+ande anden
+bedröfvad bedrövad
+begaf begav
+begrafven begraven
+betjenten betjänten tjänare tjänaren tjänarens
+gud guds frälsaren herren himmelen herren himmelen helige jesu jesus kristi
+grafven graven
+kvinnfolken käringa käringar
+käring käringen
+prinsarne prinsar prinsarna prinsarnas
+pänga pängar
+röfvare röfvarna röfvarnas rövare rövarna rövarnas
+rödt rött
+sofvande sovande
+torsdagsnatt torsdagsnätter
+lefde lefva lefver levde leva lever
+svans svansen
+skiver skivert
+fattiga fattigdom fattig utfattig
+rika rikedom förmögen förnäm
+bön bönen böner
+gladt glad
+gudstjänst gudstjänsten predikan
+hustruns hustrus
+mörker mörkret
+dagen eftermiddagen morgnarna morgonen
+ont ryggskott värk värken
+gryta grytan
+koka kokt stek steka stekt kokade
+kvällarna kvällen
+kvällsmat middagen
+grädde grädden
+smör smöret
+strö
+gröt gröten
+spad spadet sås
+bröd brödet kaka
+riven revs rivit
+bygga byggde byggdes byggas
+kalv kalven kalvar
+torp torpet
+gård gården
+herrgård herrgården
+ladugård ladugården
+mjölk mjölken
+prästgård prästgården
+spotta spottade
+bonde bondens bonden landbonde landbonden
+hundar hundarna
+princessa princessan princessans
+drottning drottningen drottningens
+prins prinsen prinsens
+källa källan
+rida red ridit
+mörda mördade mördat
+klocka klockor klockan
+döda dödas
+dödar dödade dödat
+dö dog dött
+säng sängen
+köra körde
+spela spelade
+klockare klockaren
+salt saltet
+mjölka mjölkade
+lärarinna lärarinnan
+mögel mögla möglade möglat
+kärringar kärringarna kvinnfolken käringa käringar käring käringen
+boningshuset stuga stugan stugor
+fattigstuga fattigstugan 
+fyrbiträde fyrmästare fyrvaktare 
+höskulle höskullen 
+lantbrukselev lantbrukseleven
+uthus uthusen
+baka tinade kokade kokades saltade saltades
+cykel cykeln cykla cyklade
+fläskbit rotben
+byka diskvattnet stänkas 
+höstslakten julmorgonen julslakten 
+kälkarna timmerkälkar timmerlass
+husbonde husbondfolket
+höhässjor hässjning höhässja
+hässjade räfsade snarade krattade
+grisarna höns hönsen kvigor mjölkkor
+dansa dansade dansar dans dansen
+sjunga sjunger sjöng sjöngs
+innanfönster innanfönstren fönstren
+farstu farstun farstubro farstubron
+halm halmen hö höet
+morgnarna morgonen mornarna
+hustru hustrun hustruns hustrus fru frun fruns
+häst hästen hästar hästarna
+höst höstarna hösten
+sommar somrarna sommaren 
+vinter vintrarna vintern vintertid
+vår vårarna våren
+utomhus ute
+kyla kylan 
+nysnö nysnön snö snön
+sol solen
+regn regnet
+vind vinden
+värme värmen
+påsk påsken påskdagen
+skola skolan
+torsk lax strömming sill abborre gädda gäddan öring aborre röding sik öringen
+bil bilen bilar
+kärra kärran
+traktor traktorn
+vagn vagnen
+lastbil lastbilen
+motorcykel motorcykeln
+bäckar bäckarna 
+dikade diken dikena
+fäbodvall fäbodvallen
+hage hagen hagarna
+myr myren myrar
+sjö sjön sjöar
+skog skogen skogar
+äng ängar ängarna
+å ån åar åarna
+äta åts äter
+dricka dricker 
+vit vitt
+stall stallet
+socken socknen socknar socknarna
+grannsocken grannsocknen grannsocknar grannsocknarna
+skriva skriver skrev
+lagård lagårn lagården ladugård ladugården
+köpa köper köpt köpte
+klass klassen
+hus huset
+fäbodar fäbodarna fäboden
+byggd byggt
+auktion auktioner
+begåvad duktig skicklig
+kristendom religiös religiösa välsignade
+dikt dikter romaner
+tåg tågen
+bräder bräderna
+dragspel dragspelet fiol fiolen 
+piano pianot
+unga ungdomar ungdomarna
+skolbarn skolbarnen
+fest festen kalas kalaset
+kammare kammaren
+kriget krigsåren världskriget
+missionsförbundet missionskyrkan
+murare snickare
+sadelmakare skomakare skräddare sömmerska
+varv varvet
+hjälpa hjälpte
+spelman spelmannen spelmän spelmännen
+gärsgård gärsgården gärdesgård gärdesgårdarna gärdesgårdar gärsgårdar
+skörd skörden sädesskörd sädesskörden
+tvätt tvätten stortvätt stortvätten tvätta tvättade
+fiska fiskade fiske rödingsfiske
+timmerskog timmerskogen skog skogen
+gårdar gårdarna gårdsplanen
+hemman hemmanet
+kyrkoherde kyrkoherden kyrkvärden prosten kyrkvärd prost präst prästen
+brasa brasan kakelugnarna kakelugnen kaminen köksspisen spisen öppenspisen
+tvätta tvättade tvättades tvättar 
+diska skrubbar skurade skurades torka
+golv golven golvet korkmattor tak taket mattorna
+lampan lamporna lyktan
+skolsal skolsalen
+skåp skåpen
+säd säden
+arrendator arrendatorn
+arrendet arrende arrendegård arrendegården
+baka bakade
+barn barnet barnen barnets barnen barna barnens
+båt båtar båtarna båten fartyg fartygen fyrskepp segelfartyg skepp skonare
+björn björnen
+älg älgar
+formar formarna
+kaffe kaffet
+kopp koppar
+vispade vispar
+potatis potatisen rotfrukter
+blåbär hallon hjortron lingon lingonen krusbär smultron myrbär rönnbär
+hemstickade hemsydda
+nystan garn ullgarn
+sydde syddes
+byar byarna byn by
+julafton juldagen julen jul
+kväll torsdagskväll kvällarna kvällen
+slaktade slaktades slakt
+stockholm sthlm
+unga ungdomar ungdomarna ungdom ungdomen
+salta saltade saltades
+marker markerna
+hjärna hjärnan
+ansiktet armen benen benet bröstet buken halsen handen huvudet händerna magen nacken fötterna tårna rumpan skallen
+luftstrupen hälen
+tarmar tarmarna levern livmodern
+avföring avföringen urinen
+blod blodet
+blodkorv blodpudding inälvsmat paltbröd pannkakor
+brände brändes
+brödkakor brödkakorna
+byxor byxorna
+bulle bullar kakan kakorna
+fingrarna fingret
+gräddade gräddning
+gärdsgårdar gärdsgårdarna
+hässja hässjades hässjan höbärgning
+hemgjord hemgjorda
+idisslade idisslat
+jäsa jäste
+klut mössa schal vantar halsduk
+kläder kläderna plagg
+klänning klänningar klänningen kjolar tröjor underkjolen
+kardade kardat
+knä knäet knäna knät
+kokas kokning kokningen
+kornlada kornladan
+korv korven potatiskorv pölsa
+kvistade kvistar kvistarna
+kängor kängorna
+kärnade kärning kärnmjölk kärnmjölken långmjölk
+kött köttet
+lungor lungorna
+lår låren
+mesost mesosten messmör messmöret 
+mjöl mjölet
+nedtill nertill
+ost osten ostlöpe ostmassan
+ris riset
+rygg ryggen
+smörgås smörgåsen
+sockor strumpeband strumpor ullstrumpor
+sticka stickade stickar stickat sy syr sytt 
+stövlar stövlarna
+virke virket
+väggar väggarna
+örat öronen
+träffade träffades
+fläsk älgkött
+sirap socker
+vidjor vidjorna
+barkmjöl gryn havregryn korngryn kornmjöl potatismjöl rågmjöl vetemjöl
+filmjölk kalvdans sötmjölk tjockmjölk skummjölk
+bakspade kavel träslev 
+kryddor kanel
+tallar tallarna
+tunnbröd rågbröd
+livmoder livmodern
+lever levern
+dialekt dialektala dialektal dialekten dialekter dialekterna dial mål målen målet
+ung yngre
+gammal gamla gammalt äldre
+ord ordet orden uttryck uttrycket dialektord gamla_dialektord gamla_ord
+språk språket
+uttal uttalet uttalas
+tala talar talas talade talades
+skillnad skillnader skillnaden skiljer skilja
+hör hörde hörs
+riksspråk riksspråket riksspråkets
+används användes
+namn namnet namnen
+benämning benämningar benämna benämnde
+heta heter hette kalla kallas kallade kallades
+elever eleverna elevernas
+lärare läraren lärarna lärarens lärarnas
+kompis kompisen
+lörd lördagarna lördagen lördag
+sönd söndag söndagen
+sjunka sjönk
+släcka släckte 
+tända tände
+sommar somrarna sommaren somrar
+springer springa sprang
+året_runt året-runt 365
+cykekturistveckan cykelturist cykelturistveckor cykelturistveckorna turveckan ctv
+beslutsfattare beslutsfattarna
+cyklandet cyklandets 
+cyklism cyklismen
+debatt debatten frågan samhällsdebatt samhällsdebatten
+kommun kommunen kommuner
+lobbyarbete lobbyarbetet lobbying lobbyister opinionsbildning opinionsbildningen opinionsdrivande påtryckare påtryckarorganisation påverkansarbete opinion kommunikationsarbete opinionsarbete lobbyism
+politik politiken politiker politisk politiska politiskt makthavarna makt
+myndighet myndigheter tjänstemän tjänstepersoner
+prioritera prioriteras
+klimatfrågan miljöfrågorna klimatskäl miljöskäl omställning omställningen trafikomställningen klimatet
+organisationen organisationens organisationer
+samhälle samhället
+trafikpolitik trafikpolitiken trafikfrågor
+stadsplanering stadsplaneringen stadsutvecklingen trafikplanering statsplanerar
+arbeta arbetade arbetar arbete arbetet
+jobba jobbade jobbar jobb jobbet jobbat
+framtid framtiden
+främja främjande främjandet främjar främjas
+förbättrad förbättrade förbättrar förbättras förbättre förbättring förbättringar
+stärka stöda stödja stödjas stödjer stötta stöttar
+förutsättningar förutsättningarna
+möjligheten möjligheter möjligheterna möjliggöra möjlighet förmåga potential
+bidra bidrar gynna gynnar underlätta driva
+förändra förändras
+utveckla utvecklar utvecklas utveckling utvecklingen
+intresse intresset
+engagemang engagera
+påverka påverkan påverkar påverkas
+ambitionen målsättning syfte
+växa öka ökad höja ökat
+intresseorganisation intresseorganisationen organisering intresseorganistionen
+verksamhet verksamheten
+bekvämare enklare lättare
+dåliga dåligt
+säker säkrare säkerhetsfrågor säkerhet säkert
+hälsa hälsan hälsosammare hälsosamt folkhälsa folkhälsan
+bil bilen bilar
+bilismen biltrafik bilåkandet 
+cyckla cyklandet cyklingen cykla cyklade cyklat cyklande cyklandet cyklandets
+framkomlighet trafik trafikanter trafiken trafikmiljö trafikslag
+persontransportmedel transportsätt transportmedlen transportmedlet transportsättet
+cykel cykeln
+cyklister cyklisternas cyklisters 
+cyklism cyklismen cykling
+transportsektorn transportsystemet transporter
+kämpa kämpar
+aktiviteterna aktiviteter aktiviteten
+vardag vardags vardagen
+turer turerna tisdagsturer turaktiviter cykelkulturtrim
+tidning tidningen medlemstidningen tidskriften
+organisation organisationen organisationen organisationens organisationer
+motion motionsform motionscykla
+lokal lokalt lokala regional regionalt
+informativ infokanal info information informationen
+idé idén ideer ideér idéer tankar
+gilla gillar gillat giller älskar tycker_om tycker_mycket_om vurmar
+väg vägen
+försäkringar försäkringen olycksfallsförsäkring försäkring
+förbättra förbättrad förbättrade förbättrar förbättras förbättre förbättring förbättringar
+ekonomi ekonomiskt
+behöver behövs
+fick fått
+stig stigar
+vägar landsvägar vögarna
+infra infrastruktur infrasrtuktur
+medlemskap medlemskapet medlemsskap medlemsskapet medelmsskap medlem
+hållbar hållbara hållbarhet hållbart klimatsmart miljömässigt miljövänlig miljövänligt hållbarhetsproblem
+förmånar förmåner förmånligt
+bevaka bevakar
